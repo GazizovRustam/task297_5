@@ -9,4 +9,3 @@ def main():
     return total
 
 
-print(main())
