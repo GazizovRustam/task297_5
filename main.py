@@ -4,8 +4,9 @@ def estimatedValue(price):
 
 
 def main():
-    price = 10000
+    price = float(input('Please enter price home: '))
     total = estimatedValue(price)
     return total
 
+main()
 
